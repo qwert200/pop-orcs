@@ -1,1 +1,1 @@
-there is a ban new code that make the camera follow the player(i search some parts of the code with chatgpt and luzia, thx).
+there is a brand new code that i make to camera follow the player(i search some parts of the code with chatgpt and luzia, thx challacade by aditional help).
